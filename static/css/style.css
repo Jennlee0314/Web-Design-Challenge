@@ -1,0 +1,142 @@
+body { 
+    padding: inherit;
+    background-color:#ededed
+}
+
+.title {
+  color: darkcyan;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 900;
+  font: bold;
+}
+
+.sub-title {
+  color: darkcyan;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 900;
+  font: bold;
+}
+
+.nav-link {
+color: rgb(5, 0, 0)
+}
+.navbar-brand {
+  color: #ededed;
+  font-weight: bold;
+  padding: 8px;
+  font-family: 'Times New Roman', Times, serif;
+  font: bold;
+  background-color: #47aaa5;
+}
+.description-header {
+    /* Positioning */
+    margin-bottom: 33px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    /* Typography */
+    font-size: 32px;
+    font-weight: bold;
+    color: #4aaaa5;
+  }
+  .description-content {
+    /* Box-model */
+    padding: 30px;
+    /* Positioning */
+    margin-top: 32px;
+    margin-right: 20px;
+    margin-left: 20px;
+    /* Visual */
+    background-color: #fff;
+  }
+  .description-content > p {
+    /* Box-model */
+    padding-top: 20px;
+    /* Typography */
+    font-size: 16px;
+    line-height: 30px;
+    color: slategray;
+  }
+  .description-text {
+    padding-bottom: 20px;
+  }
+  #description-image {
+    /* Positioning */
+    float: left;
+    /* Box-model */
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-right: 20px;
+  }
+  #imageNav-area {
+    width: 100%;
+    /* Box-model */
+    padding: 30px 30px 43px;
+    /* Positioning */
+    margin-top: 32px;
+    /* Visual */
+    background-color: #fff;
+  }
+  .imageNav-header {
+    /* Positioning */
+    margin-bottom: 15px;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    /* Typography */
+    font-size: 25px;
+    font-weight: bold;
+    color: #4aaaa5;
+  }
+  .imageNav-photo {
+    width: 140px;
+    /* Box-model */
+    height: 140px;
+  }
+  .imageNav-photo:hover {
+    /* Visuals */
+    opacity: 0.6;
+  }
+  .imageNav-photo.active {
+    /* Visuals */
+    border: 2px solid #4aaaa5;
+  }
+  #images {
+    /* Box-model */
+    padding-top: 15px;
+    /* Typography */
+    text-align: center;
+  }
+  
+  .footer {
+    width: 100%;
+    background-color: grey;
+    color: white;
+    border-top-style: solid;
+    border-top-color: skyblue;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding-top: 10px; 
+    height: 45px; 
+
+}
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
